@@ -1,6 +1,8 @@
 
 ## 👋 Hey everyone, I'm Shreya Jaiswal 👋
 
+<img src="header.png">
+
 # About Me :
  🌱 I'm currently learning Rust, TypeScript (again) and other cool stuff!
  -  👯 I'm looking to collaborate on full stack web apps!
