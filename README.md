@@ -1,7 +1,7 @@
 
 ## 👋 Hey everyone, I'm Shreya Jaiswal 👋
 
-<img src="header.png">
+<img src="header_.png">
 
 # About Me :
  🌱 I'm currently learning Rust, TypeScript (again) and other cool stuff!
