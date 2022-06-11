@@ -18,6 +18,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bushra-thepixelatedonut&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyajaiswalxxo&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bushra-thepixelatedonut&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" height=160 />
+<img src="https://github-readme-stats.vercel.app/api?username=BhavyaCodes&show_icons=true&theme=radical&layout=compact" alt="Bhavya's Github Stats" height=160 />
+<p>
+
+
 ### 😄 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
